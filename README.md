@@ -1,3 +1,3 @@
 # MSBC
 
-Interesting features about the moving surface.
+Interesting flow structures about the moving surface.
